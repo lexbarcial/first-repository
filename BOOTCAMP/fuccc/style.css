@@ -1,0 +1,22 @@
+* {
+  margin-top: 10px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+body h1 {
+  text-align: center;
+  margin-right: 20%;
+}
+img {
+  align-items: center;
+}
+div {
+  display: flex;
+  align-items: center;
+}
+.container {
+  margin-bottom: 20%;
+}
+div img {
+  position: static;
+}
